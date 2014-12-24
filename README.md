@@ -4,7 +4,7 @@ qiuyi
 android application for doctor and patients
 
 
-开发工具 android studio.
+开发工具 [del]android studio[del].
 
 
 1月20号前画出大致原形.
