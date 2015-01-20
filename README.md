@@ -18,7 +18,9 @@ android application for doctor and patients
 
 
 >*这个是markdown的语法吧*
+
 初步的大致的界面功能设置。
+====
 
 手机号码注册2种角色医生和病人分别进入自己对应的页面。
 
