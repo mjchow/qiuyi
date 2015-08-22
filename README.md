@@ -30,3 +30,5 @@ android application for doctor and patients
 
 医生和患者的右上角都有一个提示，医生的是提示病人的申请，患者是提示有医生接受申请，双方通过一个聊天界面进行咨询问诊。
 功能挺杂的。还有些小东西没考虑到。
+
+//Test 
